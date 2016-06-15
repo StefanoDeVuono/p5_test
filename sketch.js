@@ -16,7 +16,7 @@ var baseHeights = [
   [{colour: 'black', height: 135}, {colour: 'white', height: 146}, {colour: 'yellow', height: 133}],
   [{colour: 'orange', height: 210}, {colour: 'black', height: 204}],
   [{colour: 'yellow', height: baseHeight6}, {colour: 'white', height: baseHeight7}, {colour: 'orange', height: 167}],
-  [{colour: 'yellow', height: baseHeight6}, {colour: 'white', height: baseHeight7}, {colour: 'black', height: baseHeight8}, {colour: 'white', height: baseHeight9}],
+  [{colour: 'orange', height: baseHeight6}, {colour: 'white', height: baseHeight7}, {colour: 'black', height: baseHeight8}, {colour: 'white', height: baseHeight9}],
   [{colour: 'yellow', height: 247}, {colour: 'black', height: baseHeight8}, {colour: 'yellow', height: baseHeight9}]];
 var guidoHeight = 414;
 var heights = baseHeights.map(function(arr) {
